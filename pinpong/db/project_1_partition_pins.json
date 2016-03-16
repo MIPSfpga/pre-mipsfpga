@@ -1,0 +1,145 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "VGA_HSYNC",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_VSYNC",
+					"strict" : false
+				},
+				{
+					"name" : "HEX_OUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX_OUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX_OUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX_OUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX_OUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX_OUT_two[6]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX_OUT_two[5]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX_OUT_two[4]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX_OUT_two[3]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX_OUT_two[2]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX_OUT_two[1]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX_OUT_two[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led[7]",
+					"strict" : false
+				},
+				{
+					"name" : "led[6]",
+					"strict" : false
+				},
+				{
+					"name" : "led[5]",
+					"strict" : false
+				},
+				{
+					"name" : "led[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led[3]",
+					"strict" : false
+				},
+				{
+					"name" : "led[2]",
+					"strict" : false
+				},
+				{
+					"name" : "led[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_BLUE[4]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_BLUE[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_BLUE[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_BLUE[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_RED[4]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_RED[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_RED[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_RED[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PS2_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "PS2_DAT",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
